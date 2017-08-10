@@ -8,9 +8,10 @@
     android:orientation="vertical"
     tools:context="com.delim.kcy.androidgitconnetingtest.MainActivity">
 
-    <TextView
+    <kr.go.seoul.culturalevents.CulturalEventButtonTypeB
+        android:id="@+id/type_b"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:layout_marginLeft="10dp" />
 
 </LinearLayout>
